@@ -1,23 +1,23 @@
-Sample Input: 
-=== Working Days Generator ===
-Please enter start date (YYYY-MM-DD):
-2025-03-30
-Please enter end date (YYYY-MM-DD):
-2025-05-30
-Select working days (enter numbers separated by space):
-1. Monday
-2. Tuesday
-3. Wednesday
-4. Thursday
-5. Friday
-6. Saturday
-7. Sunday
-1 2 3 4
-Do you want to load holidays from Excel file or manually input them?
-1. Load from Excel file
-2. Input manually
+Sample Input: <br>
+=== Working Days Generator ===<br>
+Please enter start date (YYYY-MM-DD):<br>
+2025-03-30<br>
+Please enter end date (YYYY-MM-DD):<br>
+2025-05-30<br>
+Select working days (enter numbers separated by space):<br>
+1. Monday<br>
+2. Tuesday<br>
+3. Wednesday<br>
+4. Thursday<br>
+5. Friday<br>
+6. Saturday<br>
+7. Sunday<br>
+1 2 3 4<br>
+Do you want to load holidays from Excel file or manually input them?<br>
+1. Load from Excel file<br>
+2. Input manually<br>
 2
-Enter holidays (YYYY-MM-DD), one per line. Enter 'done' when finished:
+Enter holidays (YYYY-MM-DD), one per line. Enter 'done' when finished:<br>
 2025-03-30
 2025-04-05
 2025-04-06
