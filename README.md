@@ -13,9 +13,9 @@ Select working days (enter numbers separated by space):<br>
 6. Saturday<br>
 7. Sunday<br>
 1 2 3 4<br>
-Do you want to load holidays from Excel file or manually input them?<br>
-1. Load from Excel file<br>
-2. Input manually<br>
+<br>Do you want to load holidays from Excel file or manually input them?<br>
+   1. Load from Excel file<br>
+   2. Input manually<br>
 2<br>
 Enter holidays (YYYY-MM-DD), one per line. Enter 'done' when finished:<br><br>
 2025-03-30<br>
